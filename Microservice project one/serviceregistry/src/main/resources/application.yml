@@ -1,0 +1,12 @@
+eureka:
+  instance:
+    hostname: localhost
+    server:
+  client:
+    register-with-eureka: false
+    fetch-registry: false
+server:
+  port: 8671
+
+
+
